@@ -1,11 +1,6 @@
 # ninja log v5
-3	235	1671882861748187181	CMakeFiles/untitled.dir/main.cpp.o	db202dd949c7621d
-235	265	1671882861779909999	untitled	7fb9142014f16716
-4	542	1672059705578608448	CMakeFiles/untitled.dir/main.cpp.o	db202dd949c7621d
-5	556	1672059705592594575	CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o	fd3f12ccba1b740
-5	556	1672059705592595409	CMakeFiles/untitled.dir/BubbleSort/bubbleSort.cpp.o	fe56bd945a2310e2
-3	22	1672059759187612105	CMakeFiles/untitled.dir/InsertionSort/insertionSort.cpp.o	39f78c1c049cc998
-3	244	1672059820252176752	CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o	fd3f12ccba1b740
 3	271	1672059861301249523	CMakeFiles/untitled.dir/main.cpp.o	db202dd949c7621d
-3	240	1672059906186363157	CMakeFiles/untitled.dir/InsertionSort/insertionSort.cpp.o	39f78c1c049cc998
+235	265	1671882861779909999	untitled	7fb9142014f16716
+3	244	1672059820252176752	CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o	fd3f12ccba1b740
+5	556	1672059705592595409	CMakeFiles/untitled.dir/BubbleSort/bubbleSort.cpp.o	fe56bd945a2310e2
 8	27	1672059935910856992	CMakeFiles/untitled.dir/InsertionSort/insertionSort.cpp.o	39f78c1c049cc998

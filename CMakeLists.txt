@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled main.cpp InsertionSort/insertionSort.cpp BubbleSort/bubbleSort.cpp SelectionSort/selectionSort.cpp)
+add_executable(untitled main.cpp InsertionSort/insertionSort.cpp BubbleSort/bubbleSort.cpp SelectionSort/selectionSort.cpp QuickSort/quickSort.cpp)

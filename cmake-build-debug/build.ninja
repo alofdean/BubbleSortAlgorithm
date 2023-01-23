@@ -70,6 +70,12 @@ build CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o: CXX_COMPILER__u
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir/SelectionSort
 
+build CMakeFiles/untitled.dir/QuickSort/quickSort.cpp.o: CXX_COMPILER__untitled_Debug /Users/alofdean/CLionProjects/untitled/QuickSort/quickSort.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles/untitled.dir/QuickSort/quickSort.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles/untitled.dir/QuickSort
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -78,7 +84,7 @@ build CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o: CXX_COMPILER__u
 #############################################
 # Link the executable untitled
 
-build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/InsertionSort/insertionSort.cpp.o CMakeFiles/untitled.dir/BubbleSort/bubbleSort.cpp.o CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o
+build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/InsertionSort/insertionSort.cpp.o CMakeFiles/untitled.dir/BubbleSort/bubbleSort.cpp.o CMakeFiles/untitled.dir/SelectionSort/selectionSort.cpp.o CMakeFiles/untitled.dir/QuickSort/quickSort.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/untitled.dir
   POST_BUILD = :
